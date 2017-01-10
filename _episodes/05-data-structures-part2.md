@@ -122,8 +122,8 @@ cats <- rbind(cats, newRow)
 
 
 ~~~
-Warning in `[<-.factor`(`*tmp*`, ri, value = "tortoiseshell"): invalid
-factor level, NA generated
+Warning in `[<-.factor`(`*tmp*`, ri, value = structure(c(2L, 1L, 3L,
+NA), .Label = c("black", : invalid factor level, NA generated
 ~~~
 {: .error}
 
